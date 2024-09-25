@@ -25,6 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: https://masai-dev-agent.github.io
 github_username: masai-dev-agent
 domain: masai-dev-agent.github.io
+paper: https://arxiv.org/abs/2406.11638
+authors: Nalin Wadhwa*, Atharv Sonwane*, Daman Arora*, Abhav Mehrotra, Saiteja Utpala, Ramakrishna Bairi, Aditya Kanade, Nagarajan Natarajan
 show_downloads: false
 google_analytics: false
 theme: jekyll-theme-cayman

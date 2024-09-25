@@ -12,4 +12,4 @@ Our modular architecture offers several advantages:
 2. enabling sub-agents to gather information from different sources scattered throughout a repository, and
 3. avoiding unnecessarily long trajectories which inflate costs and add extraneous context.
 
-MASAI achieves a competitive performance (28.33% resolution rate) on the popular and highly challenging SWE-bench Lite dataset consisting of 300 GitHub issues from 11 Python repositories at less than 2$ per issue cost on average.
+MASAI achieves a competitive performance (**28.33%** resolution rate) on the popular and highly challenging SWE-bench Lite dataset consisting of 300 GitHub issues from 11 Python repositories at less than **2$** per issue cost on average.

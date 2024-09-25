@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+.project-authors { margin-top: 0; margin-bottom: 0.1rem; }
+@media screen and (min-width: 64em) { .project-authors { font-size: 3.25rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .project-authors { font-size: 2.25rem; } }
+@media screen and (max-width: 42em) { .project-authors { font-size: 1.75rem; } }
